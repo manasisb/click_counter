@@ -1,2 +1,2 @@
-# mini_calculator
+# click counter
 Created with CodeSandbox
